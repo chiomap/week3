@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+.top-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 20PX;
+   /* background-color: aqua;*/
+    
+} 
+
+/*div,h1{
+    margin-right: 400px;
+    margin-left: 20px;
+}*/
+
+.menu , a{
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+.div1{
+   /* background-color: rgb(6, 172, 116);*/
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+
+}
+
+ .head1{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.p1 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+img{
+    align-self: center;
+    width: 50%;
+    height: 50%;
+}
+
+hr{
+    width: 80%;
+}
+
+.p2 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.div2{
+    margin-top: 10%;
+}
+
+.div3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:10% ;
+
+}
+
+.div4{
+    margin-left: 7%;
+    font-size: 150%;
+}
+
+
+
+.img2{
+    width: 70%;
+    height: 100%;
+
+}
+
+.btn1{
+    background-color: rgb(45, 252, 252);
+    border-radius: 10%;
+    width: 25%;
+    height: 15%;
+}
+.div6{
+     border-top: 0.5px solid rgb(187, 178, 178);
+     border-bottom: 0.5px solid rgb(187, 178, 178);
+     width: 40%;
+     margin: 2rem auto;
+     padding: 1.5rem 1rem;
+}
+
+.review{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: auto;
+    width: 50%;
+}
+
+.review > img{
+    width: 20%;
+    border-radius: 50%;
+}
+
+.review > p{
+    font-weight: bold;
+}
+
+.facebook{
+    display: flex;
+    margin-top: 5%;
+    align-items: center;
+}
+
+.facebookimg{
+    width: 70%;
+    height: 100%;
+}
+
+.div7{
+    
+    font-size: 100%;
+    padding-right: 50%;
+    width: 100%;
+}
+
